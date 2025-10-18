@@ -6,7 +6,6 @@ public class Position {
 	private int column;
 
 	public Position() {
-
 	}
 
 	public Position(int row, int column) {
